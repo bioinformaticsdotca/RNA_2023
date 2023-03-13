@@ -11,7 +11,7 @@ home: https://bioinformaticsdotca.github.io/RNA_2023
 | | Monday, July 17 | | Tuesday, July 18 | | Wednesday, July 19 |  
 | :---: | :---: | :---: | :---: |:---: | :---: |  
 | Time (Eastern) | Module | Time (Eastern) | Module | Time (Eastern) | Module |
-| 8:30 | <font color="green">Arrivals & Check-in</font> | 8:30 | <font color="green">Arrivals</font |  8:30 | <font color="green">Arrivals</font> | 
+| 8:30 | <font color="green">Arrivals & Check-in</font> | 8:30 | <font color="green">Arrivals</font> |  8:30 | <font color="green">Arrivals</font> | 
 |	9:00	|	Welcome (Michelle Brazas)	|	9:00	|	<font color="blue">Module 2: RNA alignment (practical)</font>	|	9:00	|	<font color="blue">Module 3: RNA Expression and Differential Expression (Practical cont'd)</font>	|
 |	9:30	|	<font color="purple">Module 1: Intro to RNAseq course/concepts (lecture) (Malachi Griffith)</font>	|	11:00	|	<font color="green">Break (30min)</font>	|	11:00	|	<font color="green">Break (30min)</font>	|
 |	10:30	|	<font color="green">Break (30min)</font>	|	11:30	|	<font color="blue">Module 2: RNA alignment (practical cont'd)</font>	|	11:30	|	<font color="purple">Module 4: Pathway Analysis (Lecture) (Malachi Griffith)</font>	|
