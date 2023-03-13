@@ -8,11 +8,8 @@ image: /site_images/CBW_RNA_seq_icon.jpg
 home: https://bioinformaticsdotca.github.io/RNA_2023
 ---
 
-Each day runs from 10:00 AM Eastern to 6:00 PM Eastern
-
-| **Time (ET)** | **Day 1** | | **Day 2** | | **Day 3** |  
+| | Monday, July 17 | | Tuesday, July 18 | | Wednesday, July 19 |  
 | :---: | :---: | :---: | :---: |:---: | :---: |  
-| | **Monday, July 17** | | **Tuesday, July 18** | | **Wednesday, July 19** |  
 | Time (Eastern) | Module | Time (Eastern) | Module | Time (Eastern) | Module |
 | 8:30 | <font color="green">Arrivals & Check-in</font> | 8:30 | <font color="green">Arrivals</font |  8:30 | <font color="green">Arrivals</font> | 
 |	9:00	|	Welcome (Michelle Brazas)	|	9:00	|	<font color="blue">Module 2: RNA alignment (practical)</font>	|	9:00	|	<font color="blue">Module 3: RNA Expression and Differential Expression (Practical cont'd)</font>	|
