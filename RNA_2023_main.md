@@ -3,7 +3,7 @@ layout: workshop_main_3day
 permalink: /RNA_2023
 title: RNA-seq Analysis
 header1: Workshop Pages for Students
-header2: RNA-seq Analysis 2024
+header2: RNA-seq Analysis 2023
 image: /site_images/CBW_RNA_seq_icon.jpg
 keywords: RNA-seq data, differential expression analysis, assemble transcripts
 description: Course providing an introduction to RNA-seq data analysis followed by integrated tutorials demonstrating the use of popular RNA-seq analysis packages.
