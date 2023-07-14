@@ -23,11 +23,11 @@ Meet your **faculty** [here]()
 
 # Pre-Workshop Preparation <a id="preworkshop"></a>
 
-**Pre-work** including programs to install can be found [here]()
+**Pre-work** including programs to install can be found [here](https://docs.google.com/forms/d/e/1FAIpQLSdS5IaAs6N5bgOo1s26Zo1mm7llftwtzErotoWvK2PIHwK7og/viewform)
 
 # AWS Module <a id="preworkshop"></a>
 
-Connecting and properly using a cloud computing cluster at the CBW [here]()
+Connecting and properly using a cloud computing cluster at the CBW [here](https://bioinformaticsdotca.github.io/AWS_RNA23#aws_login)
 
 ***
 
