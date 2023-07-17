@@ -7,13 +7,11 @@ header2: RNA-seq Analysis 2023
 image: /site_images/CBW_RNA_seq_icon.jpg
 keywords: RNA-seq data, differential expression analysis, assemble transcripts
 description: Course providing an introduction to RNA-seq data analysis followed by integrated tutorials demonstrating the use of popular RNA-seq analysis packages.
-instructors: Malachi Griffith, Obi Griffith,Huimin Xia, Emma Bell, Felicia Gomez
+instructors: Malachi Griffith, Obi Griffith
 length: 3 days
 ---
 
 # Welcome <a id="welcome"></a>
-
-## This workshop page is under construction. Please note that some links may be missing or out of date.
 
 Welcome to Informatics for RNA-seq Analysis 2023.
 
