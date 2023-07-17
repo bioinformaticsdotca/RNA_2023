@@ -79,6 +79,11 @@ Coming soon!
   [Alignment Visualization](https://rnabio.org/module-02-alignment/0002/05/01/Alignment_Visualization/)  
   [Alignment QC](https://rnabio.org/module-02-alignment/0002/06/01/Alignment_QC/)  
 
+## Optional Team Assignment
+
+[Team Assignment - Alignment](https://rnabio.org/module-02-alignment/0002/07/01/Team_Assignment_Alignment/)
+* We will be completing the download and data preprocessing steps today
+
 # Day 2 <a id="day2"></a>
 
 ## Module 3
